@@ -1,7 +1,7 @@
 package com.example.uasoracle.util.api;
 /**
- * Created by Sandri Alfarisi.
- * github : https://github.com/sandrialfarisi
+ * Created by Suci Sukma Melati.
+ * github : https://github.com/SuciSukmaMelati
  */
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
