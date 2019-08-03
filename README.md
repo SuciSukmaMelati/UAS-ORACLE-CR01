@@ -153,4 +153,4 @@ class Api
 ```
 
 ## Tampilan di Android Studio
-![android!](./android/android.PNG "android")
+![Table Barang!](./android/android.PNG "android")
