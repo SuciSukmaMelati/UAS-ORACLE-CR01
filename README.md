@@ -45,73 +45,73 @@ Aplikasi Pembelian dan Penjualan terdapat sebuah 5 table, yaitu :
 
 
 ## Table Customer
-![Table Barang!](./Barang/table_customer.png "Table Barang")
+![Table Barang!](./Customer/table_customer.png "Table Barang")
 
 ## Customer
-![Table Barang!](./Barang/customer.PNG "Table Barang")
+![Table Barang!](./Customer/customer.PNG "Table Barang")
 
 ## GET_Customer
-![Table Barang!](./Barang/get_customer.PNG "Table Barang")
+![Table Barang!](./Customer/get_customer.PNG "Table Barang")
 
 ## POST_Customer
-![Table Barang!](./Barang/post_customer.PNG "Table Barang")
+![Table Barang!](./Customer/post_customer.PNG "Table Barang")
 
 ## PUT_Customer
-![Table Barang!](./Barang/put_customer.PNG "Table Barang")
-![Table Barang!](./Barang/put_customerb.PNG "Table Barang")
+![Table Barang!](./Customer/put_customer.PNG "Table Barang")
+![Table Barang!](./Customer/put_customerb.PNG "Table Barang")
 
 ## DELETE_Customer
-![Table Barang!](./Barang/delete_customer.PNG "Table Barang")
+![Table Barang!](./Customer/delete_customer.PNG "Table Barang")
 
 
 
 ## Table Supplier
-![Table Barang!](./Barang/table_supplier.PNG "Table Barang")
+![Table Barang!](./Supplier/table_supplier.PNG "Table Barang")
 
 ## Supplier
-![Table Barang!](./Barang/supplier.png "Table Barang")
+![Table Barang!](./Supplier/supplier.png "Table Barang")
 
 ## GET_Supplier
-![Table Barang!](./Barang/get_supplier.PNG "Table Barang")
+![Table Barang!](./Supplier/get_supplier.PNG "Table Barang")
 
 ## POST_Supplier
-![Table Barang!](./Barang/post_supplier.PNG "Table Barang")
+![Table Barang!](./Supplier/post_supplier.PNG "Table Barang")
 
 ## PUT_Supplier
-![Table Barang!](./Barang/put_supplier.PNG "Table Barang")
+![Table Barang!](./Supplier/put_supplier.PNG "Table Barang")
 
 ## DELETE_Supplier
-![Table Barang!](./Barang/delete_supplier.PNG "Table Barang")
+![Table Barang!](./Supplier/delete_supplier.PNG "Table Barang")
 
 
 
 ## Table Pembelian
-![Table Barang!](./Barang/table_pembelian.PNG "Table Barang")
+![Table Barang!](./Pembelian/table_pembelian.PNG "Table Barang")
 
 ## Pembelian
-![Table Barang!](./Barang/pembelian.png "Table Barang")
+![Table Barang!](./Pembelian/pembelian.png "Table Barang")
 
 ## GET_Pembelian
-![Table Barang!](./Barang/get_pembelian.PNG "Table Barang")
+![Table Barang!](./Pembelian/get_pembelian.PNG "Table Barang")
 
 ## POST_Pembelian
-![Table Barang!](./Barang/post_pembelian.PNG "Table Barang")
-![Table Barang!](./Barang/post_pembelianb.PNG "Table Barang")
+![Table Barang!](./Pembelian/post_pembelian.PNG "Table Barang")
+![Table Barang!](./Pembelian/post_pembelianb.PNG "Table Barang")
 
 
 
 ## Table Penjualan
-![Table Barang!](./Barang/table_penjualan.PNG "Table Barang")
+![Table Barang!](./Penjualan/table_penjualan.PNG "Table Barang")
 
 ## Penjualan
-![Table Barang!](./Barang/penjualan.png "Table Barang")
+![Table Barang!](./Penjualan/penjualan.png "Table Barang")
 
 ## GET_Penjualan
-![Table Barang!](./Barang/get_penjualan.PNG "Table Barang")
+![Table Barang!](./Penjualan/get_penjualan.PNG "Table Barang")
 
 ## POST_Penjualan
-![Table Barang!](./Barang/post_penjualan.PNG "Table Barang")
-![Table Barang!](./Barang/post_penjualanb.PNG "Table Barang")
+![Table Barang!](./Penjualan/post_penjualan.PNG "Table Barang")
+![Table Barang!](./Penjualan/post_penjualanb.PNG "Table Barang")
 
 
 
