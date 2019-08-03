@@ -24,94 +24,94 @@ Aplikasi Pembelian dan Penjualan terdapat sebuah 5 table, yaitu :
 5. Supplier
 
 ## Table Barang 
-![Table Barang!](./BARANG/table_barang.PNG "Table Barang")
+![Table Barang!](./Barang/table_barang.PNG "Table Barang")
 
 ## Barang 
-![Table Barang!](./BARANG/barang.png "Table Barang")
+![Table Barang!](./Barang/barang.png "Table Barang")
 
 ## GET_Barang 
-![Table Barang!](./BARANG/get_barang.png "Table Barang")
+![Table Barang!](./Barang/get_barang.png "Table Barang")
 
 ## POST_Barang 
-![Table Barang!](./BARANG/post_barang.PNG "Table Barang")
-![Table Barang!](./BARANG/post_barangb.PNG "Table Barang")
+![Table Barang!](./Barang/post_barang.PNG "Table Barang")
+![Table Barang!](./Barang/post_barangb.PNG "Table Barang")
 
 ## PUT_Barang 
-![Table Barang!](./BARANG/put_barang.PNG "Table Barang")
-![Table Barang!](./BARANG/put_barangb.PNG "Table Barang")
+![Table Barang!](./Barang/put_barang.PNG "Table Barang")
+![Table Barang!](./Barang/put_barangb.PNG "Table Barang")
 
 ## DELETE_Barang 
-![Table Barang!](./BARANG/delete_barang.PNG "Table Barang")
+![Table Barang!](./Barang/delete_barang.PNG "Table Barang")
 
 
 ## Table Customer
-![Table Barang!](./BARANG/table_customer.png "Table Barang")
+![Table Barang!](./Barang/table_customer.png "Table Barang")
 
 ## Customer
-![Table Barang!](./BARANG/customer.PNG "Table Barang")
+![Table Barang!](./Barang/customer.PNG "Table Barang")
 
 ## GET_Customer
-![Table Barang!](./BARANG/get_customer.PNG "Table Barang")
+![Table Barang!](./Barang/get_customer.PNG "Table Barang")
 
 ## POST_Customer
-![Table Barang!](./BARANG/post_customer.PNG "Table Barang")
+![Table Barang!](./Barang/post_customer.PNG "Table Barang")
 
 ## PUT_Customer
-![Table Barang!](./BARANG/put_customer.PNG "Table Barang")
-![Table Barang!](./BARANG/put_customerb.PNG "Table Barang")
+![Table Barang!](./Barang/put_customer.PNG "Table Barang")
+![Table Barang!](./Barang/put_customerb.PNG "Table Barang")
 
 ## DELETE_Customer
-![Table Barang!](./BARANG/delete_customer.PNG "Table Barang")
+![Table Barang!](./Barang/delete_customer.PNG "Table Barang")
 
 
 
 ## Table Supplier
-![Table Barang!](./BARANG/table_supplier.PNG "Table Barang")
+![Table Barang!](./Barang/table_supplier.PNG "Table Barang")
 
 ## Supplier
-![Table Barang!](./BARANG/supplier.png "Table Barang")
+![Table Barang!](./Barang/supplier.png "Table Barang")
 
 ## GET_Supplier
-![Table Barang!](./BARANG/get_supplier.PNG "Table Barang")
+![Table Barang!](./Barang/get_supplier.PNG "Table Barang")
 
 ## POST_Supplier
-![Table Barang!](./BARANG/post_supplier.PNG "Table Barang")
+![Table Barang!](./Barang/post_supplier.PNG "Table Barang")
 
 ## PUT_Supplier
-![Table Barang!](./BARANG/put_supplier.PNG "Table Barang")
+![Table Barang!](./Barang/put_supplier.PNG "Table Barang")
 
 ## DELETE_Supplier
-![Table Barang!](./BARANG/delete_supplier.PNG "Table Barang")
+![Table Barang!](./Barang/delete_supplier.PNG "Table Barang")
 
 
 
 ## Table Pembelian
-![Table Barang!](./BARANG/table_pembelian.PNG "Table Barang")
+![Table Barang!](./Barang/table_pembelian.PNG "Table Barang")
 
 ## Pembelian
-![Table Barang!](./BARANG/pembelian.png "Table Barang")
+![Table Barang!](./Barang/pembelian.png "Table Barang")
 
 ## GET_Pembelian
-![Table Barang!](./BARANG/get_pembelian.PNG "Table Barang")
+![Table Barang!](./Barang/get_pembelian.PNG "Table Barang")
 
 ## POST_Pembelian
-![Table Barang!](./BARANG/post_pembelian.PNG "Table Barang")
-![Table Barang!](./BARANG/post_pembelianb.PNG "Table Barang")
+![Table Barang!](./Barang/post_pembelian.PNG "Table Barang")
+![Table Barang!](./Barang/post_pembelianb.PNG "Table Barang")
 
 
 
 ## Table Penjualan
-![Table Barang!](./BARANG/table_penjualan.PNG "Table Barang")
+![Table Barang!](./Barang/table_penjualan.PNG "Table Barang")
 
 ## Penjualan
-![Table Barang!](./BARANG/penjualan.png "Table Barang")
+![Table Barang!](./Barang/penjualan.png "Table Barang")
 
 ## GET_Penjualan
-![Table Barang!](./BARANG/get_penjualan.PNG "Table Barang")
+![Table Barang!](./Barang/get_penjualan.PNG "Table Barang")
 
 ## POST_Penjualan
-![Table Barang!](./BARANG/post_penjualan.PNG "Table Barang")
-![Table Barang!](./BARANG/post_penjualanb.PNG "Table Barang")
+![Table Barang!](./Barang/post_penjualan.PNG "Table Barang")
+![Table Barang!](./Barang/post_penjualanb.PNG "Table Barang")
 
 
 
