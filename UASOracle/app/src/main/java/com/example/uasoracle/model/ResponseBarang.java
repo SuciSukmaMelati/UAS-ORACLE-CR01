@@ -1,7 +1,7 @@
 package com.example.uasoracle.model;
 /**
- * Created by Sandri Alfarisi.
- * github : https://github.com/sandrialfarisi
+ * Created by Suci Sukma Melati.
+ * github : https://github.com/SuciSukmaMelati
  */
 import com.google.gson.annotations.SerializedName;
 
