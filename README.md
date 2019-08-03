@@ -45,10 +45,10 @@ Aplikasi Pembelian dan Penjualan terdapat sebuah 5 table, yaitu :
 
 
 ## Table Customer
-![Table Barang!](./Customer/table_customer.png "Table Barang")
+![Table Barang!](./Customer/table_customer.PNG "Table Barang")
 
 ## Customer
-![Table Barang!](./Customer/customer.PNG "Table Barang")
+![Table Barang!](./Customer/customer.png "Table Barang")
 
 ## GET_Customer
 ![Table Barang!](./Customer/get_customer.PNG "Table Barang")
